@@ -33,13 +33,16 @@
             android:name=".MapsActivity"
             android:label="@string/title_activity_maps"></activity>
         <activity android:name=".MainActivity">
+
+        </activity>
+        <activity android:name=".SecondActivity"
+            android:label="@string/second_activity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".SecondActivity"></activity>
     </application>
 
 </manifest>
