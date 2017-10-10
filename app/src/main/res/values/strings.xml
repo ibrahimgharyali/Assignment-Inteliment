@@ -2,5 +2,13 @@
     <string name="app_name">Assignment-Inteliment</string>
     <string name="title_activity_maps">Map</string>
     <string name="choose_a_location">Choose a location</string>
-    <string name="second_activity">Second Activity</string>
+    <string name="second_activity">Assignment 2</string>
+    <string name="car">Car -</string>
+    <string name="train">Train -</string>
+    <string name="navigate">NAVIGATE</string>
+    <string name="mode_of_transport">Mode Of Transport:</string>
+    <string name="textview">TextView</string>
+    <string name="selected_tab_1">Selected tab: 1</string>
+    <string name="next_menu_text">Next</string>
+    <string name="first_activity">Assignment 1</string>
 </resources>

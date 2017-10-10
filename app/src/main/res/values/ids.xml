@@ -1,4 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <item name="row_text" type="id" />
+    <item name="tab_layout" type="id" />
+    <item name="layoutDots" type="id" />
+    <item name="label_tv" type="id" />
+    <item name="tab_tv" type="id" />
+    <item name="parent1" type="id" />
+    <item name="parent2" type="id" />
+    <item name="button_1" type="id" />
+    <item name="button_2" type="id" />
+    <item name="button_3" type="id" />
+    <item name="parent3" type="id" />
 </resources>
