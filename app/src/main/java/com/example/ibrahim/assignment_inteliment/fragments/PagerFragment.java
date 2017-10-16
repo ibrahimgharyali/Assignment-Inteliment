@@ -1,14 +1,14 @@
-package com.example.ibrahim.assignment_inteliment;
+package com.example.ibrahim.assignment_inteliment.fragments;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
-import android.support.v4.app.FragmentManager;
-import android.support.v4.app.FragmentPagerAdapter;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import com.example.ibrahim.assignment_inteliment.R;
 
 /**
  * Created by ibrahim on 10/10/17.

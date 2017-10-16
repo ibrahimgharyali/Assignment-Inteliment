@@ -1,4 +1,4 @@
-package com.example.ibrahim.assignment_inteliment;
+package com.example.ibrahim.assignment_inteliment.activity;
 
 import android.content.Intent;
 import android.support.annotation.NonNull;
@@ -17,6 +17,9 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.LinearLayout;
 import android.widget.TextView;
+
+import com.example.ibrahim.assignment_inteliment.fragments.PagerFragment;
+import com.example.ibrahim.assignment_inteliment.R;
 
 
 public class MainActivity extends AppCompatActivity implements TabLayout.OnTabSelectedListener {

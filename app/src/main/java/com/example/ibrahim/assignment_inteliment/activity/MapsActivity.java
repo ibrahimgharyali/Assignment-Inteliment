@@ -1,8 +1,9 @@
-package com.example.ibrahim.assignment_inteliment;
+package com.example.ibrahim.assignment_inteliment.activity;
 
 import android.support.v4.app.FragmentActivity;
 import android.os.Bundle;
 
+import com.example.ibrahim.assignment_inteliment.R;
 import com.example.ibrahim.assignment_inteliment.model.LocationModel;
 import com.example.ibrahim.assignment_inteliment.model.MapDataModel;
 import com.google.android.gms.maps.CameraUpdateFactory;

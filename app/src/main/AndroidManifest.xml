@@ -30,9 +30,9 @@
             android:value="@string/google_maps_key" />
 
         <activity
-            android:name=".MapsActivity"
+            android:name=".activity.MapsActivity"
             android:label="@string/title_activity_maps" />
-        <activity android:name=".MainActivity"
+        <activity android:name=".activity.MainActivity"
             android:label="@string/first_activity"
             android:configChanges="orientation|screenSize">
             <intent-filter>
@@ -41,7 +41,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".SecondActivity"
+        <activity android:name=".activity.SecondActivity"
             android:label="@string/second_activity"
             android:configChanges="orientation|screenSize" >
             <!--<intent-filter>
